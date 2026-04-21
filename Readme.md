@@ -13,6 +13,7 @@ Exploring Blockchain, DSA & System Design — one commit at a time.
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/Dinesh1305)
 [![Blockchain](https://img.shields.io/badge/Blockchain-Solidity-8247E5?style=flat-square&logo=ethereum&logoColor=white)](https://github.com/Dinesh1305)
 [![DSA](https://img.shields.io/badge/DSA-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/dinesh_1305/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dinesh_official1)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-m-b3827528b/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dinesh.official1305@gmail.com)
@@ -28,6 +29,7 @@ Exploring Blockchain, DSA & System Design — one commit at a time.
 - 🔗 Building **Blockchain applications** with Solidity, Ethereum & Web3.js
 - 🧠 Strong foundation in **Data Structures & Algorithms** — grinding Medium → Hard on LeetCode
 - ⚙️ Exploring **System Design & scalable distributed architectures**
+- 🏅 Earned HackerRank certifications in **Problem Solving & Java** — validated through structured challenges
 - 🎓 Computer Science student bridging backend engineering with Web3
 
 ---
@@ -80,6 +82,17 @@ System Design                    █████░░░░░  Learning
 
 ---
 
+## 🏆 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-dinesh__1305-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dinesh_1305/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-dinesh__official1-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dinesh_official1)
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -99,6 +112,20 @@ System Design                    █████░░░░░  Learning
 <div align="center">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dinesh_1305?theme=dark&font=Baloo&ext=contest)
+
+</div>
+
+---
+
+## 🟢 HackerRank Achievements
+
+<div align="center">
+
+[![Problem Solving](https://img.shields.io/badge/Problem_Solving-Gold-FFD700?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dinesh_official1)
+[![Java](https://img.shields.io/badge/Java-Certified-00EA64?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.hackerrank.com/profile/dinesh_official1)
+[![30 Days of Code](https://img.shields.io/badge/30_Days_of_Code-Completed-8247E5?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dinesh_official1)
+
+> 🔗 View full profile & badges → [hackerrank.com/profile/dinesh_official1](https://www.hackerrank.com/profile/dinesh_official1)
 
 </div>
 
