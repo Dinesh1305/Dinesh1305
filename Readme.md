@@ -49,17 +49,23 @@
 
 ## 📂 Featured Projects
 
-### 🔹 Expense Tracker
-- Secure multi-user system  
-- Income & expense analytics  
-- Built using Spring Boot, Spring Security, JPA  
+### 🔹 Productivity Analyzer  
+🔗 https://github.com/Dinesh1305/ProductivityAnalyzer  
 
-### 🔹 Product Verification (Blockchain)
-- Ethereum-based product validation  
-- Role-based smart contract system  
+- Developed a system to **analyze and track user productivity patterns** using structured data inputs  
+- Designed backend logic to **process activity data and generate meaningful insights**  
+- Focused on **clean architecture and modular code design** for scalability  
+- Implemented using **Java**, with emphasis on data handling and performance  
 
-### 🔹 Code Profile System
-- Backend system for coding profiles and stats  
+---
+
+### 🔹 Mess Expense Tracker  
+🔗 https://github.com/Dinesh1305/MESS_EXPENSE_TRACKER  
+
+- Built a **multi-user expense management system** for tracking shared expenses in a group  
+- Implemented features for **expense recording, splitting, and balance calculation**  
+- Designed backend logic to ensure **accurate and consistent financial tracking**  
+- Developed using **Java with database integration** for persistent storage  
 
 ---
 
